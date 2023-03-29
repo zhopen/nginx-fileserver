@@ -10,7 +10,7 @@ place files into directory ./nginx/download
 config file is at config/nginx.conf 
 
 # Get
-- index
+- index    
 curl host:8080/
-- files
+- files  
 curl host:8080/[file name]
